@@ -1,0 +1,10 @@
+body {background-color: rgb(10, 232, 248);}
+h1,h2,h3,h4  {color:green;font-size:italic;font-family: italic, Helvetica, sans-serif;}
+p   {color: red;text-decoration-style: none;font-family: serif;}
+a:active{color:red}
+th:hover{background-color: salmon;color:red}
+tr:hover{background-color: salmon;color:blue}
+td:hover{background-color: salmon;color:blue}
+#ol{list-style-type:italic;}
+#ul{list-style-type:italic;color:blue;}
+#t{list-style-type:italic;color:blue;}
